@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
+  m_Name: Kapal
+  m_EditorClassIdentifier: 
+  _info: Kendaraan Apakah Itu?
+  _narration: {fileID: 8300000, guid: d532c98dc5fdc8042acc26042f9e4b2d, type: 3}
+  _answers:
+  - _info: Kapal
+    _isCorrect: 1
+  - _info: Kelinci
+    _isCorrect: 0
+  - _info: Sepatu Roda
+    _isCorrect: 0
+  - _info: Sepeda
+    _isCorrect: 0
+  _knowledge: 'adalah kendaraan pengangkut penumpang dan barang di laut (sungai dsb)
+    seperti
+
+    halnya sampan atau perahu yang lebih kecil'
+  _useTimer: 0
+  _useImage: 1
+  _timer: 0
+  _questionImage: {fileID: 21300000, guid: ca839a502de40834987fcd9cdf3cbd53, type: 3}
+  _answerType: 1
+  _questionType: 5
+  _addScore: 10

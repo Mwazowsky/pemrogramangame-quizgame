@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
+  m_Name: Kereta
+  m_EditorClassIdentifier: 
+  _info: Kendaraan Apakah Itu?
+  _narration: {fileID: 8300000, guid: f6474436ff0571a42b5ce35246037080, type: 3}
+  _answers:
+  - _info: Beruang
+    _isCorrect: 0
+  - _info: Kereta
+    _isCorrect: 1
+  - _info: Roket
+    _isCorrect: 0
+  - _info: Mobil
+    _isCorrect: 0
+  _knowledge: "adalah alat transportasi yang digunakan untuk mengangkut barang atau
+    orang. Kereta\r digunakan untuk mengangkut barang, hasil pertanian atau kadang-kadang
+    orang dari\r suatu tempat ke tempat lain"
+  _useTimer: 1
+  _useImage: 1
+  _timer: 20
+  _questionImage: {fileID: 21300000, guid: ef46b8edba7340246bc1ed1bebeac9ad, type: 3}
+  _answerType: 1
+  _questionType: 2
+  _addScore: 10

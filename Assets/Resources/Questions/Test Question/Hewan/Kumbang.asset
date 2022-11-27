@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
+  m_Name: Kumbang
+  m_EditorClassIdentifier: 
+  _info: Hewan Apakah Itu?
+  _narration: {fileID: 8300000, guid: c8c68c574011d2848b35a132c3aa5021, type: 3}
+  _answers:
+  - _info: Kumbang
+    _isCorrect: 1
+  - _info: Sapi
+    _isCorrect: 0
+  - _info: Kucing
+    _isCorrect: 0
+  - _info: Kaktus
+    _isCorrect: 0
+  _knowledge: "adalah sekelompok serangga yang membentuk ordo Coleoptera berarti
+    \"sayap\r berselubung\". Karena sebagian besar kumbang memiliki dua pasang sayap"
+  _useTimer: 1
+  _useImage: 1
+  _timer: 10
+  _questionImage: {fileID: 21300000, guid: 002eb2934e99f9148a616d5f6fdecd35, type: 3}
+  _answerType: 1
+  _questionType: 1
+  _addScore: 60

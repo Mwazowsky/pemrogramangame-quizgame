@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
+  m_Name: Bangkai
+  m_EditorClassIdentifier: 
+  _info: Bunga Apakah Itu?
+  _narration: {fileID: 8300000, guid: feb3ac57f03aaef4fadeac069f4f13fb, type: 3}
+  _answers:
+  - _info: Kenanga
+    _isCorrect: 0
+  - _info: Bunga Bangkai
+    _isCorrect: 1
+  - _info: Saroja
+    _isCorrect: 0
+  - _info: Tomat
+    _isCorrect: 0
+  _knowledge: "merupakan tumbuhan dari suku talas-talasan (Araceae) endemik dari
+    Sumatra,\r Indonesia, yang dikenal sebagai tumbuhan dengan bunga (majemuk) terbesar
+    di dunia.\r Bunga ini memancarkan bau busuk sehingga disebut sebagai bunga bangkai\r"
+  _useTimer: 1
+  _useImage: 1
+  _timer: 25
+  _questionImage: {fileID: 21300000, guid: 876befeeded0871459a8194a3c216c8d, type: 3}
+  _answerType: 1
+  _questionType: 0
+  _addScore: 10

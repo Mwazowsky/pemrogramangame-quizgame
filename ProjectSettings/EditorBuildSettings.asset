@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: d24105241228f8343a95edf5c4f55d30
+  - enabled: 1
+    path: Assets/Scenes/Mode Select-Test.unity
+    guid: d868c5e5a4bc18940a2fc5b012668240
+  - enabled: 1
+    path: Assets/Scenes/Test/Hewan.unity
+    guid: ef13da124e45d3d42b8625d635deef1a
+  - enabled: 1
+    path: Assets/Scenes/Test/Tumbuhan.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Test/Transportasi.unity
+    guid: 22dfcbe9383e86e43b2d663f5273791a
+  - enabled: 1
+    path: Assets/Scenes/Knowledge/KNW_Hewan.unity
+    guid: 50c194dfcc57be84fb0ef8e203aa7e0b
+  - enabled: 1
+    path: Assets/Scenes/Knowledge/KNW_Tumbuhan.unity
+    guid: b250eea3d4256e343b387d1fc9d74689
+  - enabled: 1
+    path: Assets/Scenes/Knowledge/KNW_Transportasi.unity
+    guid: 1a580911f0fdc554aafe56479170fad3
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: aed24eb12c1033e4a8a0287a88c10d0e, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 1dc118057790c9f4e8b1986f1bd39860, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 690ea83f48e1bb74693092bdf2ee8a85, type: 2}

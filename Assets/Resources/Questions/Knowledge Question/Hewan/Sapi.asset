@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
+  m_Name: Sapi
+  m_EditorClassIdentifier: 
+  _info: Hewan Apakah Itu?
+  _narration: {fileID: 8300000, guid: f2357bb11fc06164989d8a078f3eb8a1, type: 3}
+  _answers:
+  - _info: Kura-Kura
+    _isCorrect: 0
+  - _info: Sapi
+    _isCorrect: 1
+  - _info: Gurita
+    _isCorrect: 0
+  - _info: 'Kereta-Api
+
+'
+    _isCorrect: 0
+  _knowledge: 'adalah hewan ternak anggota famili Bovidae dan subfamili Bovinae.
+    Sapi dipelihara
+
+    terutama untuk dimanfaatkan susu dan dagingnya sebagai
+    pangan manusia. Hasil
+
+    sampingannya seperti kulit, jeroan, tanduk, dan kotorannya
+    juga dimanfaatkan untuk
+
+    berbagai keperluan manusia'
+  _useTimer: 0
+  _useImage: 1
+  _timer: 0
+  _questionImage: {fileID: 21300000, guid: 46aed3ba72261b04cb323e4563b75ebe, type: 3}
+  _answerType: 1
+  _questionType: 4
+  _addScore: 10

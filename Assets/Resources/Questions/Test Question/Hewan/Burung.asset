@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
+  m_Name: Burung
+  m_EditorClassIdentifier: 
+  _info: Hewan Apakah Itu?
+  _narration: {fileID: 8300000, guid: 49ce035a3b473ca4ba71c07790a44324, type: 3}
+  _answers:
+  - _info: Burung
+    _isCorrect: 1
+  - _info: Ikan
+    _isCorrect: 0
+  - _info: Nyamuk
+    _isCorrect: 0
+  - _info: Cabai
+    _isCorrect: 0
+  _knowledge: "adalah anggota kelompok hewan bertulang belakang (vertebrata) yang
+    memiliki bulu\r dan sayap.Jenis-jenis burung begitu bervariasi, mulai dari burung
+    kolibri yang kecil dan\r dapat mengepakkan sayap dengan sangat cepat, penguin
+    yang menyelam dengan\r sayapnya, hingga burung unta, yang lebih tinggi dari manusia.\r"
+  _useTimer: 1
+  _useImage: 1
+  _timer: 15
+  _questionImage: {fileID: 21300000, guid: 26f377df623017f47bdc5d15abcf6aea, type: 3}
+  _answerType: 1
+  _questionType: 1
+  _addScore: 20
